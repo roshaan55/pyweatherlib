@@ -19,4 +19,4 @@ try:
 except:
     print('City name not found...')
 ```
-For more examples see [Examples](https://github.com/roshaan55/pycamdetector/blob/main/examples "Examples of funcions of pyweatherlib").
+For more examples see [Examples](https://github.com/roshaan55/pyweatherlib/blob/main/examples "Examples of funcions of pyweatherlib").

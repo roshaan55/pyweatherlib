@@ -53,6 +53,7 @@ try:
     next_days_forecast(data)
 except:
     print("You're not connected to internet.")
+    
 ```
 
 For more examples see [Examples](https://github.com/roshaan55/pyweatherlib/blob/main/Examples "Examples of funcions of pyweatherlib").
